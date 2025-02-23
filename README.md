@@ -93,6 +93,13 @@ The server does not save chat logs.
 
 
 
+Output-- 
+
+![Image](https://github.com/user-attachments/assets/7e64c395-0de0-4ec4-b488-1c4c22245de9)
+![Image](https://github.com/user-attachments/assets/8cfe293e-70c8-41af-9462-f77a86f5d04c)
+![Image](https://github.com/user-attachments/assets/828cb1a4-545d-42e6-80c4-c58935751132)
+
+
 
 
 This Java code provides a basic, functional chat application using sockets and multithreading. The server listens for client connections, and each connected client is managed by a separate thread. Clients can send and receive messages, which are broadcasted to all other connected clients. While functional, the application has limitations in terms of error handling, features, and robustness. Potential improvements include adding more robust error handling, implementing user authentication, adding chat history, and improving the user interface.
